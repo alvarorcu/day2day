@@ -1,0 +1,79 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+body, html,.row {
+	height: 100%;
+	font-family: 'Comfortaa', cursive;
+}
+
+.row {
+	text-align: center;
+}
+
+#cards {
+	margin-top: 22%;
+	padding-right: 35px;
+
+}
+
+#cards .btn {
+	font-size: 22px;
+    margin: 10px;
+    min-height: 10%;
+    line-height: 21px;
+    padding: 8px 10px 14px;
+}
+
+#cards img {
+	margin:10px;
+}
+
+#inicio {
+	height: 100%;
+	background: url(../img/fondo.png) repeat;
+}
+
+#tweets-side {
+	background-color: #48B9C8;
+	text-align: center;
+	min-height: 100%;
+}
+
+h1.michi {
+	color: #ffffff;
+    font-size: 102px;
+    width: 96%;
+    position: relative;
+    line-height: 54px;
+    top: -12px;
+}
+
+
+h1.tittle {
+	color: #ffffff;
+	text-align: left;
+	width:100px;
+	position: relative;
+    left: 58%;
+    font-size: 40px;
+}
+
+.tittle-right {
+	text-align: right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
